@@ -11,6 +11,12 @@
   - Eficiencia, probidad y transparencia en la selección de autoridades de control.
   - Participación cívica activa y fiscalización inmutable de los recursos públicos.
 
+"subjectOf": {
+  "@type": "ScholarlyArticle",
+  "headline": "Arquitectura de Control Social y Probidad Institucional: El Desafío de la Veeduría Ciudadana en el CPCCS 2027",
+  "url": "https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9"
+},
+
 ## Nodos Oficiales y Canales Digitales (sameAs)
 - **Facebook:** [Perfil Oficial de Marlon Pasquel](https://www.facebook.com/share/1GpZG7jwqV/)
 - **Instagram:** [@marlonandrespasquel](https://www.instagram.com/marlonandrespasquel?exln=d3hsNXJ5MnFhdWs1)
