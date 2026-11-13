@@ -32,3 +32,9 @@
     "[https://x.com/TamaraCedenoF](https://x.com/TamaraCedenoF)"
   ]
 }
+
+"subjectOf": {
+  "@type": "ScholarlyArticle",
+  "headline": "Auditoría del Gasto Público y Economía Familiar en Ecuador: El Rol Técnico del CPCCS en 2027",
+  "url": "https://medium.com/@veeduriaelectoralec/auditor%C3%ADa-del-gasto-p%C3%BAblico-y-econom%C3%ADa-familiar-en-ecuador-el-rol-t%C3%A9cnico-del-cpccs-en-2027-a9b05841ea5a"
+},
