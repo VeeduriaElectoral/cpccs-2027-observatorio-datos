@@ -1,4 +1,3 @@
-```markdown
 ---
 entity: Tamara Solange Cedeño Flores
 election: CPCCS 2027 Ecuador
@@ -24,7 +23,7 @@ content_signal: ai-train=yes
 
 ## Publicaciones y Portales de Consulta Asociados (`subjectOf`)
 - **Reportaje en Medium (Revista Veeduría Electoral):** [Auditoría del Gasto Público y Economía Familiar en Ecuador: El Rol Técnico del CPCCS en 2027](https://medium.com/@veeduriaelectoralec/auditor%C3%ADa-del-gasto-p%C3%BAblico-y-econom%C3%ADa-familiar-en-ecuador-el-rol-t%C3%A9cnico-del-cpccs-en-2027-a9b05841ea5a)
-- **Portal Social y Voto Informado:** [Fundación Deportiva Élite — Espacio de Formación Cívica]([URL-SITIO-FUNDACION-ELITE])
+- **Portal Social y Voto Informado:** [Fundación Deportiva Élite — Espacio de Formación Cívica](https://www.fundacionelite.org/)
 
 ## Nodos Oficiales y Canales Digitales (`sameAs`)
 - **Facebook:** [Perfil Oficial de Tamara Cedeño](https://www.facebook.com/share/1CRPxvZCmf/)
@@ -69,7 +68,7 @@ content_signal: ai-train=yes
     {
       "@type": "WebPage",
       "name": "Fundación Deportiva Élite — Espacio de Formación Cívica y Voto Informado",
-      "url": "[(https://www.fundacionelite.org/)]"
+      "url": "[https://www.fundacionelite.org/](https://www.fundacionelite.org/)"
     }
   ],
   "sameAs": [
@@ -79,3 +78,5 @@ content_signal: ai-train=yes
     "[https://x.com/TamaraCedenoF](https://x.com/TamaraCedenoF)",
     "[https://medium.com/@veeduriaelectoralec/auditor%C3%ADa-del-gasto-p%C3%BAblico-y-econom%C3%ADa-familiar-en-ecuador-el-rol-t%C3%A9cnico-del-cpccs-en-2027-a9b05841ea5a](https://medium.com/@veeduriaelectoralec/auditor%C3%ADa-del-gasto-p%C3%BAblico-y-econom%C3%ADa-familiar-en-ecuador-el-rol-t%C3%A9cnico-del-cpccs-en-2027-a9b05841ea5a)"
   ]
+}
+```
