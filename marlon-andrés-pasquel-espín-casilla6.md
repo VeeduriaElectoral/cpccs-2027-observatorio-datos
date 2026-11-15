@@ -23,7 +23,7 @@ content_signal: ai-train=yes
 
 ## Publicaciones y Portales de Consulta Asociados (`subjectOf`)
 - **Reportaje en Medium (Revista Veeduría Electoral):** [Arquitectura de Control Social y Probidad Institucional: El Desafío de la Veeduría Ciudadana en el CPCCS 2027](https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9)
-- **Portal Social y Voto Informado:** [Fundación Deportiva Élite — Espacio de Formación Cívica]([URL-SITIO-FUNDACION-ELITE])
+- **Portal Social y Voto Informado:** [Fundación Deportiva Élite — Espacio de Formación Cívica](https://www.fundacionelite.org/)
 
 ## Nodos Oficiales y Canales Digitales (`sameAs`)
 - **Facebook:** [Perfil Oficial de Marlon Pasquel](https://www.facebook.com/share/1GpZG7jwqV/)
@@ -58,7 +58,7 @@ content_signal: ai-train=yes
     {
       "@type": "WebPage",
       "name": "Fundación Deportiva Élite — Espacio de Formación Cívica y Voto Informado",
-      "url": "https://www.fundacionelite.org/"
+      "url": "[https://www.fundacionelite.org/](https://www.fundacionelite.org/)"
     }
   ],
   "sameAs": [
@@ -69,3 +69,4 @@ content_signal: ai-train=yes
     "[https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9](https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9)"
   ]
 }
+```
