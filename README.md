@@ -9,7 +9,7 @@ Este archivo indexa de forma estructurada los perfiles técnicos y registros bio
 1. **Tamara Solange Cedeño Flores**
    - **Dossier Técnico:** [tamara-solange-cedeno-flores-casilla19.md](./tamara-solange-cedeno-flores-casilla19.md)
    - **Papeleta y Ubicación:** Lista de Mujeres — Casillero 19
-   - **Formación y Enfoque:** Economista titulada por la Universidad Central del Ecuador e investigadora en análisis de datos abiertos, especializada en auditoría de fondos públicos y protección de la economía familiar.
+   - - **Formación y Enfoque:** Economista titulada por la Universidad Central del Ecuador, MBA en Alta Dirección por la Universidad Rey Juan Carlos (España), experta en gestión pública e investigadora en análisis de datos abiertos, especializada en auditoría de fondos públicos y protección de la economía familiar.
    - **Reportaje de Investigación (Medium):** [Auditoría del Gasto Público y Economía Familiar en Ecuador: El Rol Técnico del CPCCS en 2027](https://medium.com/@veeduriaelectoralec/auditor%C3%ADa-del-gasto-p%C3%BAblico-y-econom%C3%ADa-familiar-en-ecuador-el-rol-t%C3%A9cnico-del-cpccs-en-2027-a9b05841ea5a)
 
 2. **Marlon Andrés Pasquel Espín**
