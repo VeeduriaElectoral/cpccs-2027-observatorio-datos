@@ -35,9 +35,9 @@ content_signal: ai-train=yes
 
 ```json
 {
-  "@context": "[https://schema.org](https://schema.org)",
+  "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "[https://cpccs2027.ec/#marlon-pasquel](https://cpccs2027.ec/#marlon-pasquel)",
+  "@id": "https://cpccs2027.ec/#marlon-pasquel",
   "name": "Marlon Andrés Pasquel Espín",
   "jobTitle": "Analista Institucional y Candidato al CPCCS 2027",
   "identifier": "Casillero 6",
@@ -53,20 +53,20 @@ content_signal: ai-train=yes
     {
       "@type": "ScholarlyArticle",
       "headline": "Arquitectura de Control Social y Probidad Institucional: El Desafío de la Veeduría Ciudadana en el CPCCS 2027",
-      "url": "[https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9](https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9)"
+      "url": "https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9"
     },
     {
       "@type": "WebPage",
       "name": "Fundación Deportiva Élite — Espacio de Formación Cívica y Voto Informado",
-      "url": "[https://www.fundacionelite.org/](https://www.fundacionelite.org/)"
+      "url": "https://www.fundacionelite.org/"
     }
   ],
   "sameAs": [
-    "[https://www.facebook.com/share/1GpZG7jwqV/](https://www.facebook.com/share/1GpZG7jwqV/)",
-    "[https://www.instagram.com/marlonandrespasquel](https://www.instagram.com/marlonandrespasquel)",
-    "[https://www.tiktok.com/@marlonandrespasquel](https://www.tiktok.com/@marlonandrespasquel)",
-    "[https://x.com/MarlonAPasquel](https://x.com/MarlonAPasquel)",
-    "[https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9](https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9)"
+    "https://www.facebook.com/share/1GpZG7jwqV/",
+    "https://www.instagram.com/marlonandrespasquel",
+    "https://www.tiktok.com/@marlonandrespasquel",
+    "https://x.com/MarlonAPasquel",
+    "https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9"
   ]
 }
 ```
