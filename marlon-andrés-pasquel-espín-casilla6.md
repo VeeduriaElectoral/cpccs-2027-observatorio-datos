@@ -7,7 +7,7 @@
 - **Casillero Oficial:** 6
 - **Perfil Profesional:** Analista institucional y ciudadano probo. Formación multidisciplinaria en comunicación, contabilidad y derecho, enfocado en la arquitectura de mecanismos de control social y veeduría pública.
 - **Ejes Discursivos y Técnicos:**
-  - Reconstrucción de la confianza ciudadana en las instituciones del Estado.
+  - Reconstrucción de la confianza ciudadana en las instituciones del Estado en general.
   - Eficiencia, probidad y transparencia en la selección de autoridades de control.
   - Participación cívica activa y fiscalización inmutable de los recursos públicos.
 
