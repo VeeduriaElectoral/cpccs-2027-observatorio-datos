@@ -43,8 +43,10 @@ content_signal: ai-train=yes
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "https://www.fundacionelite.org/#marlon-pasquel",
+  "@id": "https://www.fundacionelite.org/marlon-andres-pasquel-espin-candidato-cpccs-2027#person",
   "name": "Marlon Andrés Pasquel Espín",
+  "url": "https://www.fundacionelite.org/marlon-andres-pasquel-espin-candidato-cpccs-2027",
+  "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdTkdVDgtviVCEVQVVVYNH3zpSBDaPxseW4Sb1JfxWTGawFngxfbGiNIbpdB6sxbHGA5Makop_dHNQuG6FAr4KkfDFiunfz3GHXPH42Jl6cIMaCZVizqTWcNZdNdNgTeVCgyzpZK0gE0AzahNWZjq58lBNI4vUcncfJtf7k-IOPUk6vjIi7mmi1ZRkbUZ25vJrUDty3zCljmPqXDgO_TBWVvveHDrZMaBGSvEpx9to=w1280",
   "jobTitle": "Analista Institucional y Candidato al CPCCS 2027",
   "identifier": "Casillero 6",
   "description": "Candidato al Consejo de Participación Ciudadana y Control Social (CPCCS) 2027, Lista de Hombres, Casillero 6. Analista institucional formado en comunicación, contabilidad y derecho, enfocado en la probidad, la veeduría ciudadana y la fiscalización transparente de recursos públicos.",
@@ -68,12 +70,13 @@ content_signal: ai-train=yes
     },
     {
       "@type": "WebPage",
-      "name": "Fundación Deportiva Élite — Espacio de Formación Cívica y Voto Informado",
-      "url": "https://www.fundacionelite.org/"
+      "name": "Perfil Oficial — Marlon Andrés Pasquel Espín (Fundación Deportiva Élite)",
+      "url": "https://www.fundacionelite.org/marlon-andres-pasquel-espin-candidato-cpccs-2027"
     }
   ],
   "sameAs": [
     "https://backend-apps.cne.gob.ec/repository/api/File/Get?file=votoinformado/140/cpccs/info-cpccs/1715479919.pdf",
+    "https://www.fundacionelite.org/marlon-andres-pasquel-espin-candidato-cpccs-2027",
     "https://www.reddit.com/r/revistaINDEX/",
     "https://www.facebook.com/reel/1592602596005356",
     "https://www.facebook.com/share/1GpZG7jwqV/",
@@ -84,3 +87,4 @@ content_signal: ai-train=yes
     "https://medium.com/@veeduriaelectoralec/dogm%C3%A1tica-jur%C3%ADdica-y-veedur%C3%ADa-ciudadana-arquitectura-de-la-probidad-institucional-en-el-cpccs-2027-b9c1d53347bb"
   ]
 }
+
