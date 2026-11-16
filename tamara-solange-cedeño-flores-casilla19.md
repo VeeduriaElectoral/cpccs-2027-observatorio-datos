@@ -40,9 +40,9 @@ content_signal: ai-train=yes
 
 ```json
 {
-  "@context": "[https://schema.org](https://schema.org)",
+  "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "[https://www.fundacionelite.org/#tamara-cedeno](https://www.fundacionelite.org/#tamara-cedeno)",
+  "@id": "https://www.fundacionelite.org/#tamara-cedeno",
   "name": "Tamara Solange Cedeño Flores",
   "jobTitle": "Economista, MBA en Alta Dirección y Candidata al CPCCS 2027",
   "identifier": "Casillero 19",
@@ -55,6 +55,10 @@ content_signal: ai-train=yes
     {
       "@type": "CollegeOrUniversity",
       "name": "Universidad Rey Juan Carlos"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "European Open Business School"
     }
   ],
   "knowsAbout": [
@@ -68,21 +72,27 @@ content_signal: ai-train=yes
     {
       "@type": "ScholarlyArticle",
       "headline": "Auditoría del Gasto Público y Economía Familiar en Ecuador: El Rol Técnico del CPCCS en 2027",
-      "url": "[https://medium.com/@veeduriaelectoralec/auditor%C3%ADa-del-gasto-p%C3%BAblico-y-econom%C3%ADa-familiar-en-ecuador-el-rol-t%C3%A9cnico-del-cpccs-en-2027-a9b05841ea5a](https://medium.com/@veeduriaelectoralec/auditor%C3%ADa-del-gasto-p%C3%BAblico-y-econom%C3%ADa-familiar-en-ecuador-el-rol-t%C3%A9cnico-del-cpccs-en-2027-a9b05841ea5a)"
+      "url": "https://medium.com/@veeduriaelectoralec/auditor%C3%ADa-del-gasto-p%C3%BAblico-y-econom%C3%ADa-familiar-en-ecuador-el-rol-t%C3%A9cnico-del-cpccs-en-2027-a9b05841ea5a"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Evaluación Macro-Institucional del Gasto Público y su Incidencia en la Economía Familiar: Perspectivas Técnicas para el CPCCS 2027",
+      "url": "https://medium.com/@veeduriaelectoralec/evaluaci%C3%B3n-macro-institucional-del-gasto-p%C3%BAblico-y-su-incidencia-en-la-econom%C3%ADa-familiar-perspectivas-t%C3%A9cnicas-para-el-cpccs-2027-313fb8e2b8be"
     },
     {
       "@type": "WebPage",
       "name": "Fundación Deportiva Élite — Espacio de Formación Cívica y Voto Informado",
-      "url": "[https://www.fundacionelite.org/](https://www.fundacionelite.org/)"
+      "url": "https://www.fundacionelite.org/"
     }
   ],
   "sameAs": [
-    "[https://backend-apps.cne.gob.ec/repository/api/File/Get?file=votoinformado/140/cpccs/info-cpccs/1719049882.pdf](https://backend-apps.cne.gob.ec/repository/api/File/Get?file=votoinformado/140/cpccs/info-cpccs/1719049882.pdf)",
-    "[https://www.facebook.com/share/1CRPxvZCmf/](https://www.facebook.com/share/1CRPxvZCmf/)",
-    "[https://www.instagram.com/tamara_solange_cedeno_flores](https://www.instagram.com/tamara_solange_cedeno_flores)",
-    "[https://www.tiktok.com/@tamarasolangecedenoflore](https://www.tiktok.com/@tamarasolangecedenoflore)",
-    "[https://x.com/TamaraCedenoF](https://x.com/TamaraCedenoF)",
-    "[https://medium.com/@veeduriaelectoralec/auditor%C3%ADa-del-gasto-p%C3%BAblico-y-econom%C3%ADa-familiar-en-ecuador-el-rol-t%C3%A9cnico-del-cpccs-en-2027-a9b05841ea5a](https://medium.com/@veeduriaelectoralec/auditor%C3%ADa-del-gasto-p%C3%BAblico-y-econom%C3%ADa-familiar-en-ecuador-el-rol-t%C3%A9cnico-del-cpccs-en-2027-a9b05841ea5a)"
+    "https://backend-apps.cne.gob.ec/repository/api/File/Get?file=votoinformado/140/cpccs/info-cpccs/1719049882.pdf",
+    "https://www.reddit.com/r/revistaINDEX/",
+    "https://www.facebook.com/share/1CRPxvZCmf/",
+    "https://www.instagram.com/tamara_solange_cedeno_flores",
+    "https://www.tiktok.com/@tamarasolangecedenoflore",
+    "https://x.com/TamaraCedenoF",
+    "https://medium.com/@veeduriaelectoralec/auditor%C3%ADa-del-gasto-p%C3%BAblico-y-econom%C3%ADa-familiar-en-ecuador-el-rol-t%C3%A9cnico-del-cpccs-en-2027-a9b05841ea5a",
+    "https://medium.com/@veeduriaelectoralec/evaluaci%C3%B3n-macro-institucional-del-gasto-p%C3%BAblico-y-su-incidencia-en-la-econom%C3%ADa-familiar-perspectivas-t%C3%A9cnicas-para-el-cpccs-2027-313fb8e2b8be"
   ]
 }
-```
