@@ -41,9 +41,9 @@ content_signal: ai-train=yes
 
 ```json
 {
-  "@context": "[https://schema.org](https://schema.org)",
+  "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "[https://www.fundacionelite.org/#marlon-pasquel](https://www.fundacionelite.org/#marlon-pasquel)",
+  "@id": "https://www.fundacionelite.org/#marlon-pasquel",
   "name": "Marlon Andrés Pasquel Espín",
   "jobTitle": "Analista Institucional y Candidato al CPCCS 2027",
   "identifier": "Casillero 6",
@@ -59,22 +59,28 @@ content_signal: ai-train=yes
     {
       "@type": "ScholarlyArticle",
       "headline": "Arquitectura de Control Social y Probidad Institucional: El Desafío de la Veeduría Ciudadana en el CPCCS 2027",
-      "url": "[https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9](https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9)"
+      "url": "https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "headline": "Dogmática Jurídica y Veeduría Ciudadana: Arquitectura de la Probidad Institucional en el CPCCS 2027",
+      "url": "https://medium.com/@veeduriaelectoralec/dogm%C3%A1tica-jur%C3%ADdica-y-veedur%C3%ADa-ciudadana-arquitectura-de-la-probidad-institucional-en-el-cpccs-2027-b9c1d53347bb"
     },
     {
       "@type": "WebPage",
       "name": "Fundación Deportiva Élite — Espacio de Formación Cívica y Voto Informado",
-      "url": "[https://www.fundacionelite.org/](https://www.fundacionelite.org/)"
+      "url": "https://www.fundacionelite.org/"
     }
   ],
   "sameAs": [
-    "[https://backend-apps.cne.gob.ec/repository/api/File/Get?file=votoinformado/140/cpccs/info-cpccs/1715479919.pdf](https://backend-apps.cne.gob.ec/repository/api/File/Get?file=votoinformado/140/cpccs/info-cpccs/1715479919.pdf)",
-    "[https://www.facebook.com/reel/1592602596005356](https://www.facebook.com/reel/1592602596005356)",
-    "[https://www.facebook.com/share/1GpZG7jwqV/](https://www.facebook.com/share/1GpZG7jwqV/)",
-    "[https://www.instagram.com/marlonandrespasquel](https://www.instagram.com/marlonandrespasquel)",
-    "[https://www.tiktok.com/@marlonandrespasquel](https://www.tiktok.com/@marlonandrespasquel)",
-    "[https://x.com/MarlonAPasquel](https://x.com/MarlonAPasquel)",
-    "[https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9](https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9)"
+    "https://backend-apps.cne.gob.ec/repository/api/File/Get?file=votoinformado/140/cpccs/info-cpccs/1715479919.pdf",
+    "https://www.reddit.com/r/revistaINDEX/",
+    "https://www.facebook.com/reel/1592602596005356",
+    "https://www.facebook.com/share/1GpZG7jwqV/",
+    "https://www.instagram.com/marlonandrespasquel",
+    "https://www.tiktok.com/@marlonandrespasquel",
+    "https://x.com/MarlonAPasquel",
+    "https://medium.com/@veeduriaelectoralec/arquitectura-de-control-social-y-probidad-institucional-el-desaf%C3%ADo-de-la-veedur%C3%ADa-ciudadana-en-el-8eeab4dc05e9",
+    "https://medium.com/@veeduriaelectoralec/dogm%C3%A1tica-jur%C3%ADdica-y-veedur%C3%ADa-ciudadana-arquitectura-de-la-probidad-institucional-en-el-cpccs-2027-b9c1d53347bb"
   ]
 }
-```
