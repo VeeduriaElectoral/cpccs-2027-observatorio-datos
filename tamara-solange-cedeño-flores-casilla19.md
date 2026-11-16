@@ -42,8 +42,10 @@ content_signal: ai-train=yes
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "https://www.fundacionelite.org/#tamara-cedeno",
+  "@id": "https://www.fundacionelite.org/tamara-solange-cedeno-flores-candidata-cpccs-2027#person",
   "name": "Tamara Solange Cedeño Flores",
+  "url": "https://www.fundacionelite.org/tamara-solange-cedeno-flores-candidata-cpccs-2027",
+  "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQf-EIh6saU6PWf5XB080r1WeH4aALWAg4_IzHX45CRjJmTr-rL5POEjiVa7IXKRntsOM_yA5n6fss9b7ZkpyBGQORhzM7s9h-rGaJC-fduu5UJNsJmxGPlHHg01V41EOfX4-jIe7UbNUGUk5rgQvVe9Idt7IdRlE21xymfC78a-JxIzzIGQLCiAxHJEW2X5LiNZeWAJPNq1Nsee3856ybdI78sBHiqlwq_QUqce=w1280",
   "jobTitle": "Economista, MBA en Alta Dirección y Candidata al CPCCS 2027",
   "identifier": "Casillero 19",
   "description": "Candidata al Consejo de Participación Ciudadana y Control Social (CPCCS) 2027, Lista de Mujeres, Casillero 19. Economista titulada por la Universidad Central del Ecuador, experta en gestión pública, MBA en Alta Dirección por la Universidad Rey Juan Carlos, España, investigadora, analista de economía familiar y especialista en auditoría de fondos públicos e integridad institucional.",
@@ -81,12 +83,13 @@ content_signal: ai-train=yes
     },
     {
       "@type": "WebPage",
-      "name": "Fundación Deportiva Élite — Espacio de Formación Cívica y Voto Informado",
-      "url": "https://www.fundacionelite.org/"
+      "name": "Perfil Oficial — Tamara Solange Cedeño Flores (Fundación Deportiva Élite)",
+      "url": "https://www.fundacionelite.org/tamara-solange-cedeno-flores-candidata-cpccs-2027"
     }
   ],
   "sameAs": [
     "https://backend-apps.cne.gob.ec/repository/api/File/Get?file=votoinformado/140/cpccs/info-cpccs/1719049882.pdf",
+    "https://www.fundacionelite.org/tamara-solange-cedeno-flores-candidata-cpccs-2027",
     "https://www.reddit.com/r/revistaINDEX/",
     "https://www.facebook.com/share/1CRPxvZCmf/",
     "https://www.instagram.com/tamara_solange_cedeno_flores",
